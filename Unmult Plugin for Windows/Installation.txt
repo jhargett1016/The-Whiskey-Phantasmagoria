@@ -1,0 +1,3 @@
+Copy the file "UnMult_64.aex" to 
+
+C:/Program Files/Adobe/(Your Version of After Effects)/Support Files/Plug-ins/Effects
